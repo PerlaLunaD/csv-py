@@ -18,10 +18,10 @@ if choice_two == 'Box orange':
     print(' Take the key. Do you know what will open?')
     print('Find out in the last level')
 
-choice_three = input('Are you ready for you gift? Choose one door: 1, 2, 3, 4, 5, 6: ?')
+choice_three = input('Are you ready for you gift? Choose one door: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10: ?')
 if choice_three == '3':
    print(f'Congratulates {name}, you are in front to next washing machine')
-elif choice_three == '4':
+elif choice_three == '6':
    print(f'Congratulates {name}, you are in front to your stove')
 elif choice_three =='1':
     print('You have won $100 dll')
@@ -29,8 +29,7 @@ else:
    print('You are where it all began!!')
    print('Better luck next time!')
 
+# INPUT te permite escribir a tu eleccion, asignada a diferentes variables, puedes eleguir.
 
 
 
-
-# INPUT te permite escribir a tu eleccion, asignada a diferentes variables, puedes eleguir
